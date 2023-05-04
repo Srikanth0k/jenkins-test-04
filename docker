@@ -1,0 +1,2 @@
+FROM Srikanth0k/jenkins-test-04
+ADD . /var/www/html
